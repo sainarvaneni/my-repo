@@ -1,0 +1,29 @@
+ls = listing the fies
+ls -l = long listing format of files
+ls -lt =asending order based on crete or modified date,ls -lrt = reverse order
+ls -ls file size (based on asending order)
+cd = change the directory
+pwd = present working directory
+uname = currently using directory
+uname-a = o.s version
+mkdir = create a directory or folder
+rm -r = delete a directory
+rm -rf = del directory with all the content(r-recursive,f-force)
+whoami = current logged in username
+passwd = change the password
+clear = clear the screen
+history = history of commands
+cat/proc/cpuinfo = processor name of screen
+df -k or df -h = disk utillization(df-k= disk free space in kb's,df-h= human readable format)
+cd .. = come back from the folder
+cd .././. = come back 2 steps from the folder
+touch = create a file
+rm (file name) = del a file
+cat (file or floder name ) = view content of a file
+cp = copy the file
+mv = move the file
+LINUX diveds users as 1. users 2. groups 3. root (each one has 9 permissions,read=r write=w,execute=x)
+chmod = change the file permissionss (o-no persmission,1=excute,2=write,4=read,5=rx,6=rw,7=rwx)
+chown user:group (file name) = change the ownership of a file
+grep = search for content in a file
+man (commands)= get the help on linux
